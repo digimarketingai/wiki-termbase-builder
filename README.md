@@ -10,8 +10,8 @@ Give it a Wikipedia category and a language pair, and it crawls every article ti
 - **Google Translate fallback** — fills gaps automatically so you always get a result
 - **Source tagging** — every term is tagged `wikipedia` or `google` so you know what to review
 - **CSV output** — directly importable into professional CAT tools and termbases
+- **Command-line interface** — change settings without opening any code
 - **UTF-8 with BOM** — opens correctly in Excel for CJK languages (Chinese, Japanese, Korean)
-- **Zero configuration** — edit 5 lines, run one command
 
 ## 🚀 Quick Start
 
